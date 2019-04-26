@@ -1,3 +1,2 @@
 def prime?(num)
   
-  
